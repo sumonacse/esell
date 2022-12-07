@@ -1,0 +1,41 @@
+footer{
+    background: #1f1f1f;
+    /* padding: 150px 0; */
+   /* padding-top: 70px;
+    padding-bottom: 30px;
+    */
+    margin-top: -29px;
+    padding: 60px 0;
+}
+footer img{
+    margin-bottom: 18px;
+}
+
+
+footer ul{
+    padding-left: 0;
+}
+footer ul li{
+    color:#fff;
+    margin-top: 15px;
+}
+footer ul li i{
+    margin-right: 15px;
+}
+footer .icon img{
+    margin-right: 12px;
+}
+footer h4{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px !important;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 7px;
+}
+footer h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px !important;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 7px;
+}

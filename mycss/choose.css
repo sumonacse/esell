@@ -1,0 +1,53 @@
+.container{
+    width:1320px;
+    margin:0 auto;
+}
+
+#choose-part{
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+#choose-part .title{
+    text-align: center;
+}
+#choose-part .title h5{
+    font-family: 'Yellowtail', cursive;
+    font-size: 34px;
+    font-weight: 400;
+    color:#f56702;
+    /*margin-top: -50px;*/
+}
+#choose-part .title h2{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    color:#222222;
+    position: relative;
+    margin-bottom: 50px;
+}
+#choose-part .box{
+    display:flex;
+    justify-content: space-between;
+    background-color: #fffff;
+    padding-bottom: 60px;
+    /*padding-top: -30px;*/
+}
+#choose-part .box .item{
+    width: 24%;
+    margin-top: 76px;
+    text-align: center;
+}
+#choose-part .box .item h3{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 56px;
+    margin-bottom: 16px;
+}
+#choose-part .box .item p{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 18px;
+    font-weight:400;
+   
+}
